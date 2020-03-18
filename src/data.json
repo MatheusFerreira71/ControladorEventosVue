@@ -1,0 +1,56 @@
+{
+  "palestras" : {
+    "-M2haWFwVwVfWsAXmWZZ" : {
+      "data_hora" : 1504377762,
+      "descricao" : "Pedras nos rins - como evitar",
+      "key" : "-M2haWFwVwVfWsAXmWZZ",
+      "maxParticipantes" : 20,
+      "participantes" : {
+        "-M2hbLsqhB1IfIDIzsYS" : {
+          "key" : "-M2hbLsqhB1IfIDIzsYS",
+          "presenca" : true
+        },
+        "-M2hdddt3kM9NMHwD-Zi" : {
+          "key" : "-M2hdddt3kM9NMHwD-Zi",
+          "presenca" : false
+        }
+      }
+    },
+    "-M2htg3v_BLJhtU12NEI" : {
+      "data_hora" : 1587225600000,
+      "descricao" : "Como se previnir do Corona Vairus",
+      "key" : "-M2htg3v_BLJhtU12NEI",
+      "maxParticipantes" : 10
+    }
+  },
+  "participantes" : {
+    "-M2hbLsqhB1IfIDIzsYS" : {
+      "cpf" : 45223293851,
+      "email" : "matheusfernandofreire@hotmail.com",
+      "escolaridade" : "Ensino Superior - Incompleto",
+      "key" : "-M2hbLsqhB1IfIDIzsYS",
+      "nome" : "Matheus Ferreira",
+      "palestras" : {
+        "-M2haWFwVwVfWsAXmWZZ" : "-M2haWFwVwVfWsAXmWZZ"
+      },
+      "presencas" : {
+        "1504377765" : 1504377765
+      },
+      "telefone" : 16997409712
+    },
+    "-M2hdddt3kM9NMHwD-Zi" : {
+      "cpf" : "12345678909",
+      "email" : "teste@teste.com",
+      "escolaridade" : "Ensino Médio - Completo",
+      "key" : "-M2hdddt3kM9NMHwD-Zi",
+      "nome" : "Roberto",
+      "palestras" : {
+        "-M2haWFwVwVfWsAXmWZZ" : "-M2haWFwVwVfWsAXmWZZ"
+      },
+      "presencas" : {
+        "1504377765" : 1504377765
+      },
+      "telefone" : "16998237612"
+    }
+  }
+}
